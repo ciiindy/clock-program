@@ -1,2 +1,2 @@
-# javascript-practice
+# clock-program
 javaScript practice exercises
